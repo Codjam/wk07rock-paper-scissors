@@ -1,11 +1,19 @@
 body {
-  /* Visual */
-  background-color: #e4f0d0;
+   background-image: url("http://blog.online.colostate.edu/wp-content/uploads/2016/05/Rock-Paper-Scissors.jpg");
+
+   /* Full height */
+     height: 100%;
+     width: auto;
+
+     /* Center and scale the image nicely */
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
 }
 
 header {
   /* Visual */
-  background-color: #c2d8b9;
+  background-color: #3333;
 }
 
 h1 {
@@ -13,7 +21,7 @@ h1 {
   padding: 15px;
 
   /* Typography */
-  font-size: 36px;
+  font-size: 100px;
   text-align: center;
 }
 
